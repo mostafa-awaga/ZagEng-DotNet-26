@@ -3666,11 +3666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EL DIB\\source\\repos\\ShopEasy_Project\\ShopEasy_Project\\ShopEasy_Project.csproj",
+      "projectUniqueName": "D:\\ZagEng-DotNet-26\\ShopEasy_Project\\ShopEasy_Project\\ShopEasy_Project.csproj",
       "projectName": "ShopEasy_Project",
-      "projectPath": "C:\\Users\\EL DIB\\source\\repos\\ShopEasy_Project\\ShopEasy_Project\\ShopEasy_Project.csproj",
+      "projectPath": "D:\\ZagEng-DotNet-26\\ShopEasy_Project\\ShopEasy_Project\\ShopEasy_Project.csproj",
       "packagesPath": "C:\\Users\\EL DIB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EL DIB\\source\\repos\\ShopEasy_Project\\ShopEasy_Project\\obj\\",
+      "outputPath": "D:\\ZagEng-DotNet-26\\ShopEasy_Project\\ShopEasy_Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

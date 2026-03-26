@@ -11,7 +11,7 @@ namespace ShopEasy_Project.Models
         public String? Name { get; set; }
         public string? Slug { get; set; }
         public string? Description { get; set; }
-        public int ParentCategoryId { get; set; }
+        public int? ParentCategoryId { get; set; } 
         public string? InternalNotes { get; set; }
 
         // Navigation property

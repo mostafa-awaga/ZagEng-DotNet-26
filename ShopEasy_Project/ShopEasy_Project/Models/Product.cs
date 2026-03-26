@@ -13,6 +13,7 @@ namespace ShopEasy_Project.Models
         public int StockQuantity { get; set; }
         public bool IsActive { get; set; }
         public string? DisplayName { get; set; }
+        public int CategoryId { get; set; }
 
         // Navigation properties
         //public Order Order { get; set; } = null!;

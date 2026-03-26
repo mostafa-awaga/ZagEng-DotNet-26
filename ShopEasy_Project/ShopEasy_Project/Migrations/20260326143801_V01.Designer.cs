@@ -12,7 +12,7 @@ using ShopEasy_Project.Data;
 namespace ShopEasy_Project.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260324193841_V01")]
+    [Migration("20260326143801_V01")]
     partial class V01
     {
         /// <inheritdoc />
@@ -44,7 +44,7 @@ namespace ShopEasy_Project.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<int>("ParentCategoryId")
+                    b.Property<int?>("ParentCategoryId")
                         .HasColumnType("int");
 
                     b.Property<string>("Slug")
@@ -441,8 +441,7 @@ namespace ShopEasy_Project.Migrations
                     b.HasOne("ShopEasy_Project.Models.Category", "ParentCategory")
                         .WithMany("SubCategories")
                         .HasForeignKey("ParentCategoryId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("ParentCategory");
                 });

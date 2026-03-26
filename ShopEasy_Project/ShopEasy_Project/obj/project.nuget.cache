@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gkw9uDkuNL4=",
+  "dgSpecHash": "EzzOVpNbjQ4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\EL DIB\\source\\repos\\ShopEasy_Project\\ShopEasy_Project\\ShopEasy_Project.csproj",
+  "projectFilePath": "D:\\ZagEng-DotNet-26\\ShopEasy_Project\\ShopEasy_Project\\ShopEasy_Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EL DIB\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\EL DIB\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

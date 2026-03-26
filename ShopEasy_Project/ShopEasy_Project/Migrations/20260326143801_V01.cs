@@ -32,7 +32,7 @@ namespace ShopEasy_Project.Migrations
                     Name = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     Slug = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    ParentCategoryId = table.Column<int>(type: "int", nullable: false)
+                    ParentCategoryId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {

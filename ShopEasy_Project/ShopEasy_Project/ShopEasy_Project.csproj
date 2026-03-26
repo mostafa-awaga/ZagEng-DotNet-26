@@ -8,6 +8,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Models\JsonData\categories.json" />
+    <None Remove="Models\JsonData\customerProfiles.json" />
+    <None Remove="Models\JsonData\customers.json" />
+    <None Remove="Models\JsonData\discounts.json" />
+    <None Remove="Models\JsonData\orderItems.json" />
+    <None Remove="Models\JsonData\orders.json" />
+    <None Remove="Models\JsonData\payments.json" />
+    <None Remove="Models\JsonData\products.json" />
+    <None Remove="Models\JsonData\productTags.json" />
+    <None Remove="Models\JsonData\reviews.json" />
+    <None Remove="Models\JsonData\tags.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.5">
       <PrivateAssets>all</PrivateAssets>
@@ -18,6 +32,42 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="Models\JsonData\categories.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\customerProfiles.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\customers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\discounts.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\orderItems.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\orders.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\payments.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\products.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\productTags.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\reviews.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Models\JsonData\tags.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
   </ItemGroup>
 
 </Project>

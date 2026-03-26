@@ -41,7 +41,7 @@ namespace ShopEasy_Project.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<int>("ParentCategoryId")
+                    b.Property<int?>("ParentCategoryId")
                         .HasColumnType("int");
 
                     b.Property<string>("Slug")
@@ -438,8 +438,7 @@ namespace ShopEasy_Project.Migrations
                     b.HasOne("ShopEasy_Project.Models.Category", "ParentCategory")
                         .WithMany("SubCategories")
                         .HasForeignKey("ParentCategoryId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("ParentCategory");
                 });
