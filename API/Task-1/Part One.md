@@ -4,8 +4,10 @@
    - that runs on (Windows, Linux, macOS)
    - and it fundamentally supports Dependency Injection.
    - Framework it is the old version that only runs on the Windows system
-   - and it is heavy in performance compared to Core.
-
+   ASP.NET
+   - is the older version of ASP.NET
+   - runs only on the Windows operating system.
+   - does not have built-in Dependency Injection.
 ###### 2. What does it mean for an API to be "Stateless"?
    - Stateless API means the server does not store any information about your previous requests.
    - Every request you send must be independent and include all the data the server needs to execute it.
