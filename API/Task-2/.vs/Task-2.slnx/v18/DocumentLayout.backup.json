@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\data\\applicationdbcontex.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|solutionrelative:taskzageng\\data\\applicationdbcontex.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|solutionrelative:taskzageng\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\data\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|solutionrelative:taskzageng\\data\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\Task-2.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\task-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\Task-2.csproj|solutionrelative:taskzageng\\task-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|solutionrelative:taskzageng\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|solutionrelative:taskzageng\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\filters\\validatejobfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|solutionrelative:taskzageng\\filters\\validatejobfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\middleware\\requestloggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|solutionrelative:taskzageng\\middleware\\requestloggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\services\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|solutionrelative:taskzageng\\services\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|c:\\users\\el dib\\source\\repos\\taskzageng\\taskzageng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC2030C-81DC-4262-93B3-387B64E48166}|TaskZagEng\\TaskZagEng.csproj|solutionrelative:taskzageng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobListing.cs",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Data\\JobListing.cs",
+              "RelativeDocumentMoniker": "TaskZagEng\\Data\\JobListing.cs",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Data\\JobListing.cs",
+              "RelativeToolTip": "TaskZagEng\\Data\\JobListing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:23:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Data\\ApplicationDbContex.cs",
+              "RelativeDocumentMoniker": "TaskZagEng\\Data\\ApplicationDbContex.cs",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Data\\ApplicationDbContex.cs",
+              "RelativeToolTip": "TaskZagEng\\Data\\ApplicationDbContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:23:33.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "TaskZagEng\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "TaskZagEng\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:03:26.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskZagEng\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskZagEng\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T21:36:40.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "TaskZagEng\\Services\\JobService.cs",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Services\\JobService.cs",
+              "RelativeToolTip": "TaskZagEng\\Services\\JobService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:12:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task-2.csproj",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Task-2.csproj",
+              "RelativeDocumentMoniker": "TaskZagEng\\Task-2.csproj",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Task-2.csproj",
+              "RelativeToolTip": "TaskZagEng\\Task-2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T20:21:13.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidateJobFilter.cs",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Filters\\ValidateJobFilter.cs",
+              "RelativeDocumentMoniker": "TaskZagEng\\Filters\\ValidateJobFilter.cs",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Filters\\ValidateJobFilter.cs",
+              "RelativeToolTip": "TaskZagEng\\Filters\\ValidateJobFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:21:05.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestLoggerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Middleware\\RequestLoggerMiddleware.cs",
+              "RelativeDocumentMoniker": "TaskZagEng\\Middleware\\RequestLoggerMiddleware.cs",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Middleware\\RequestLoggerMiddleware.cs",
+              "RelativeToolTip": "TaskZagEng\\Middleware\\RequestLoggerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:23:05.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Services\\IJobService.cs",
+              "RelativeDocumentMoniker": "TaskZagEng\\Services\\IJobService.cs",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Services\\IJobService.cs",
+              "RelativeToolTip": "TaskZagEng\\Services\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:12:31.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Program.cs",
+              "RelativeDocumentMoniker": "TaskZagEng\\Program.cs",
+              "ToolTip": "C:\\Users\\EL DIB\\source\\repos\\TaskZagEng\\TaskZagEng\\Program.cs",
+              "RelativeToolTip": "TaskZagEng\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:32:18.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

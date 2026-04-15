@@ -1,0 +1,6 @@
+@TaskZagEng_HostAddress = http://localhost:5105
+
+GET {{TaskZagEng_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
